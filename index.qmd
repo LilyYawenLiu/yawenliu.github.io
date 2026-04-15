@@ -23,14 +23,14 @@ Nanyang Technological University
 
 ## About Me
 
-I am a PhD candidate in Economics at Nanyang Technological University. My research interests lie in corporate finance, Chinese economy, and capital markets, with a particular focus on regulatory risk, overseas IPO and delisting.
+I am a PhD candidate in Economics at Nanyang Technological University. My research interests lie in corporate finance, Chinese economy, and capital market, with a particular focus on regulatory risk, overseas IPO and delisting.
 
 ## Research Interests
 
 - Corporate Finance
 - International Finance
 - Chinese Economy
-- Capital Markets
+- Capital Market
 
 <!--
     ## Working Papers
