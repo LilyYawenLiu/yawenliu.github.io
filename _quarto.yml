@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yawen LIU"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© 2026 Yawen LIU"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    mainfont: "Georgia"
+    fontsize: 1em
+    linestretch: 1.5
+
+editor: visual

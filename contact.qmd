@@ -1,0 +1,26 @@
+---
+title: "Contact"
+---
+
+**Yawen Liu**  
+PhD Candidate in Economics  
+Nanyang Technological University
+
+**Email**  
+[yawen004@e.ntu.edu.sg](mailto:yawen004@e.ntu.edu.sg)
+
+**GitHub**  
+[https://yawenliu.github.io](https://yawenliu.github.io)
+
+<!--
+**Google Scholar**  
+[Scholar Profile](https://scholar.google.com/)
+-->
+
+<!--
+    **ORCID**  
+    [ORCID Profile](https://orcid.org/)
+-->
+
+**LinkedIn**  
+[LinkedIn Profile](https://www.linkedin.com/in/yawen-liu-1b0005273/)
