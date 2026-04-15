@@ -2,10 +2,6 @@
 title: "Contact"
 ---
 
-**Yawen Liu**  
-PhD Candidate in Economics  
-Nanyang Technological University
-
 **Email**  
 [yawen004@e.ntu.edu.sg](mailto:yawen004@e.ntu.edu.sg)
 
