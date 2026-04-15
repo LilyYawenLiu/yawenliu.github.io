@@ -7,7 +7,7 @@ title: Home
 ![](images/IDPhoto.jpg){width=95% .center-img}
 
 <br>
-[Download CV](/yawenliu.github.io/files/CV_2026.pdf){.btn .btn-primary .center-btn}
+[Download CV](files/CV_2026.pdf){.btn .btn-primary .center-btn}
 <!--
     [Research Page](research.html){.btn .btn-secondary}
 -->
