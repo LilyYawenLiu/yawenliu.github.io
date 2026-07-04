@@ -2,8 +2,8 @@
 title: Home
 ---
 
-::: {.columns}
-::: {.column width="40%"}
+::: {.columns .home-columns}
+::: {.column width="35%"}
 ![](images/IDPhoto.jpg){width=95% .center-img}
 
 <br>
@@ -14,7 +14,7 @@ title: Home
 :::
 
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 
 # Yawen LIU
 
